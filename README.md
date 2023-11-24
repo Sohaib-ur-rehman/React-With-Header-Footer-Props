@@ -1,2 +1,2 @@
-# React-With-Header-Footer-Props
+# zeroslope-react
 Created with CodeSandbox
